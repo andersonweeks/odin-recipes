@@ -1,0 +1,14 @@
+html * {
+    font-family:'Courier New', 'Courier New', Courier, monospace
+}
+
+#title {
+    background-color:darkseagreen;
+    font-size: 44px;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto
+}
